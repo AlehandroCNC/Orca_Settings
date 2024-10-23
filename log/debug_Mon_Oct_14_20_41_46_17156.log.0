@@ -1,9 +1,0 @@
-[error]	2024-10-14 20:41:53.379901[Thread 0x000042c8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
-[error]	2024-10-14 20:41:53.397917[Thread 0x000042c8]:Unable to open the fileC:\Users\Alehandro\Desktop\Приколюхи в 3д печать\Snake v4 x2.stl
-[error]	2024-10-14 20:41:53.397917[Thread 0x0000474c]:Unable to open the fileC:\Users\Alehandro\AppData\Local\Temp\Neutron\Body1.stl
-[error]	2024-10-14 20:41:53.398919[Thread 0x00004748]:Unable to open the fileC:\Users\Alehandro\AppData\Local\Temp\Neutron\Roller for friction.stl
-[error]	2024-10-14 20:41:53.398919[Thread 0x0000475c]:Unable to open the fileC:\Users\Alehandro\Downloads\Telegram Desktop\Body1.stl
-[error]	2024-10-14 20:41:53.398919[Thread 0x00004750]:Unable to open the fileC:\Users\Alehandro\AppData\Local\Temp\Neutron\Mounting plate.stl
-[error]	2024-10-14 20:41:56.875363[Thread 0x000042c8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
-[warning]	2024-10-14 20:41:57.331902[Thread 0x000042c8]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
-[error]	2024-10-14 20:42:04.287688[Thread 0x000042c8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
