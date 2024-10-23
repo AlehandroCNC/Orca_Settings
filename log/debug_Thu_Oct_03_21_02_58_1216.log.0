@@ -1,0 +1,92 @@
+[error]	2024-10-03 21:03:01.076929[Thread 0x00003320]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-03 21:03:01.081934[Thread 0x000037d0]:Unable to open the fileC:\Users\Alehandro\Downloads\Telegram Desktop\Body1.stl
+[error]	2024-10-03 21:03:01.081934[Thread 0x000037d0]:Unable to open the fileC:\Users\Alehandro\Downloads\Telegram Desktop\PODVES_01 v0.3mf
+[error]	2024-10-03 21:03:01.081934[Thread 0x00001170]:Unable to open the fileC:\Users\Alehandro\Downloads\Telegram Desktop\PODVES_02.3mf
+[error]	2024-10-03 21:03:01.081934[Thread 0x00000330]:Unable to open the fileC:\Users\Alehandro\AppData\Local\Temp\Neutron\Roller for friction.stl
+[error]	2024-10-03 21:03:01.081934[Thread 0x00000984]:Unable to open the fileC:\Users\Alehandro\AppData\Local\Temp\Neutron\Body1.stl
+[error]	2024-10-03 21:03:01.081934[Thread 0x00001de0]:Unable to open the fileC:\Users\Alehandro\AppData\Local\Temp\Neutron\Mounting plate.stl
+[warning]	2024-10-03 21:03:05.212962[Thread 0x00003320]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-10-03 21:10:02.560917[Thread 0x00000f98]:Slic3r::BackgroundSlicingProcess::call_process:got cancelled exception
+[error]	2024-10-03 21:22:00.979540[Thread 0x00000f98]:gcode path conflicts found between Змеешланг.stl_26 and Змеешланг.stl_25
+[error]	2024-10-03 21:25:41.014190[Thread 0x00000f98]:gcode path conflicts found between Змеешланг.stl_26 and Змеешланг.stl_25
+[error]	2024-10-03 21:35:13.857565[Thread 0x00000f98]:gcode path conflicts found between Змеешланг.stl_26 and Змеешланг.stl_25
+[error]	2024-10-03 21:38:34.022117[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-03 21:38:46.195980[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-03 21:39:12.596650[Thread 0x00000f98]:gcode path conflicts found between Змеешланг.stl_26 and Змеешланг.stl_25
+[error]	2024-10-03 21:41:51.181182[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-03 21:42:01.272762[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-03 21:42:01.333817[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-03 21:42:07.563531[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-03 21:42:09.044136[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-03 21:42:26.569238[Thread 0x00000f98]:gcode path conflicts found between Змеешланг.stl_26 and Змеешланг.stl_25
+[error]	2024-10-03 21:43:01.512435[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-03 21:43:02.121119[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-03 21:43:20.344699[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-03 21:43:21.078368[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-03 21:43:22.348280[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-03 21:43:46.699155[Thread 0x00000f98]:gcode path conflicts found between Змеешланг.stl_26 and Змеешланг.stl_25
+[error]	2024-10-03 21:44:22.022153[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-03 21:44:40.052527[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-03 21:44:40.233835[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-03 21:44:54.264395[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-03 21:44:54.993430[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-03 21:45:27.334758[Thread 0x00000f98]:gcode path conflicts found between Змеешланг.stl_26 and Змеешланг.stl_25
+[error]	2024-10-04 14:46:31.657418[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:46:32.505190[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:46:41.387276[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:46:41.465347[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:46:45.041076[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:46:46.103043[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:47:02.838356[Thread 0x00000f98]:gcode path conflicts found between Змеешланг.stl_26 and Змеешланг.stl_25
+[error]	2024-10-04 14:48:03.493543[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:48:05.604466[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:48:06.726487[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:48:13.643855[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:48:22.689006[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:48:23.510754[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:48:31.127922[Thread 0x00003320]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-04 14:48:34.300811[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:48:39.263330[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:48:47.837256[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:48:48.801134[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:48:55.817573[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:48:57.702664[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:49:05.625884[Thread 0x00003320]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-04 14:49:06.183420[Thread 0x00003320]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-04 14:49:06.850027[Thread 0x00003320]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-04 14:49:11.436204[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:49:11.775524[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:49:33.845724[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:49:35.293393[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:49:59.967688[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:50:00.602265[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:50:01.812368[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:50:02.281352[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:50:06.234643[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:50:09.484671[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:50:19.015804[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:50:19.617352[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:50:21.753331[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:50:22.352916[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:50:25.983995[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:50:27.186300[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:50:31.288317[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:50:32.067454[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:50:37.873719[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:50:38.319124[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:51:08.011516[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:51:09.150553[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:51:27.220849[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:51:27.657111[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:51:33.465256[Thread 0x00003320]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-04 14:51:34.657774[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:51:35.317867[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:51:37.958683[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:51:38.089802[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:51:52.107883[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:52:32.384242[Thread 0x00000f98]:gcode path conflicts found between Змеешланг.stl_26 and Змеешланг.stl_25
+[error]	2024-10-04 14:53:21.736640[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:53:26.318813[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:53:26.375866[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:53:28.272758[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-04 14:53:28.780219[Thread 0x00003320]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 

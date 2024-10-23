@@ -1,0 +1,57 @@
+[warning]	2024-09-27 16:19:43.818595[Thread 0x00001408]:Failed to load to hints.cereal. File does not exists. C:\Users\Alehandro\AppData\Roaming\OrcaSlicer\user\hints.cereal
+[error]	2024-09-27 16:19:49.495984[Thread 0x00001408]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-27 16:19:49.503938[Thread 0x00003708]:Unable to open the fileC:\Users\Alehandro\AppData\Local\Temp\Neutron\Body1.stl
+[error]	2024-09-27 16:19:49.509992[Thread 0x000039c4]:Unable to open the fileC:\Users\Alehandro\AppData\Local\Temp\Neutron\Roller for friction.stl
+[error]	2024-09-27 16:19:49.510993[Thread 0x00003b10]:Unable to open the fileC:\Users\Alehandro\AppData\Local\Temp\Neutron\Mounting plate.stl
+[warning]	2024-09-27 16:19:52.302684[Thread 0x00001408]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-09-27 16:19:55.058616[Thread 0x00001408]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-27 16:20:03.410322[Thread 0x0000317c]:HMSQuery: update hms info error = curl:Timeout was reached:
+Resolving timed out after 10003 milliseconds
+[Error 28], body = , status = 0
+[error]	2024-09-27 16:20:03.410322[Thread 0x00000f98]:Error getting: `check_new_version_sf`: HTTP 0, curl:Timeout was reached:
+Resolving timed out after 1010 milliseconds
+[Error 28]
+[error]	2024-09-27 16:20:12.747177[Thread 0x00001408]:Unable to open the fileC:\Users\Alehandro\Downloads\Telegram Desktop\Body1.stl
+[error]	2024-09-27 16:20:14.524688[Thread 0x00000a48]:[Orca Updater]: status=0, error=curl:Timeout was reached:
+Resolving timed out after 10003 milliseconds
+[Error 28], body=
+[error]	2024-09-27 16:20:14.524688[Thread 0x0000317c]:HMSQuery: update hms info error = curl:Timeout was reached:
+Resolving timed out after 10011 milliseconds
+[Error 28], body = , status = 0
+[warning]	2024-09-27 16:20:40.808233[Thread 0x000006fc]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":45,000000,"clearance_height_to_lid":101,000000,"cleareance_radius":45,000000,"printable_height":300,000000,
+[error]	2024-09-27 16:21:21.279480[Thread 0x00001408]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-09-27 16:22:56.726867[Thread 0x000013c8]:Influence area could not be increased! Data about the Influence area: Radius: 800000 at layer: 67 NextTarget: 67 Distance to top: 4 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0000027987226180: Radius: 800000 at layer: 68 NextTarget: 68 Distance to top: 3 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[error]	2024-09-27 16:22:56.726867[Thread 0x000013c8]:Trying to keep area by moving faster than intended: FAILURE! WRONG BRANCHES LIKLY!
+[warning]	2024-09-27 16:22:56.739878[Thread 0x00003840]:Influence area could not be increased! Data about the Influence area: Radius: 1069990 at layer: 64 NextTarget: 64 Distance to top: 7 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 000002798B45BFB0: Radius: 1069990 at layer: 65 NextTarget: 65 Distance to top: 6 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[error]	2024-09-27 16:22:56.739878[Thread 0x00003840]:Trying to keep area by moving faster than intended: FAILURE! WRONG BRANCHES LIKLY!
+[warning]	2024-09-27 16:23:36.567272[Thread 0x00001460]:Influence area could not be increased! Data about the Influence area: Radius: 800000 at layer: 67 NextTarget: 67 Distance to top: 4 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 00000279905586D0: Radius: 800000 at layer: 68 NextTarget: 68 Distance to top: 3 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[error]	2024-09-27 16:23:36.567272[Thread 0x00001460]:Trying to keep area by moving faster than intended: FAILURE! WRONG BRANCHES LIKLY!
+[warning]	2024-09-27 16:23:36.579283[Thread 0x000013c8]:Influence area could not be increased! Data about the Influence area: Radius: 1069990 at layer: 64 NextTarget: 64 Distance to top: 7 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 000002798B8CA640: Radius: 1069990 at layer: 65 NextTarget: 65 Distance to top: 6 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[error]	2024-09-27 16:23:36.579283[Thread 0x000013c8]:Trying to keep area by moving faster than intended: FAILURE! WRONG BRANCHES LIKLY!
+[warning]	2024-09-27 16:23:48.107003[Thread 0x00001cfc]:Influence area could not be increased! Data about the Influence area: Radius: 800000 at layer: 67 NextTarget: 67 Distance to top: 4 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0000027987021B60: Radius: 800000 at layer: 68 NextTarget: 68 Distance to top: 3 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[error]	2024-09-27 16:23:48.107003[Thread 0x00001cfc]:Trying to keep area by moving faster than intended: FAILURE! WRONG BRANCHES LIKLY!
+[warning]	2024-09-27 16:23:48.119014[Thread 0x00001614]:Influence area could not be increased! Data about the Influence area: Radius: 1069990 at layer: 64 NextTarget: 64 Distance to top: 7 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0000027987243B70: Radius: 1069990 at layer: 65 NextTarget: 65 Distance to top: 6 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[error]	2024-09-27 16:23:48.120015[Thread 0x00001614]:Trying to keep area by moving faster than intended: FAILURE! WRONG BRANCHES LIKLY!
+[error]	2024-09-27 16:23:58.343827[Thread 0x00001408]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-09-27 17:26:23.147216[Thread 0x00001408]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-09-27 17:35:01.217828[Thread 0x00001408]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-27 17:55:55.968313[Thread 0x00001408]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-27 17:55:56.881033[Thread 0x00001408]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-09-27 17:55:57.011149[Thread 0x00001408]:Slic3r::PresetCollection::validate_preset: preset_name Bambu Lab P1S 0.4 nozzle, no inherit, set to not found
+[warning]	2024-09-27 17:55:57.011149[Thread 0x00001408]:Slic3r::PresetBundle::validate_presets:file_name ArowanaFixedEyesp1s.3mf, found the printer preset not inherit from system
+[warning]	2024-09-27 17:55:57.011149[Thread 0x00001408]:Slic3r::PresetCollection::validate_preset: preset_name Bambu PLA Basic @BBL X1C, no inherit, set to not found
+[warning]	2024-09-27 17:55:57.011149[Thread 0x00001408]:Slic3r::PresetBundle::validate_presets:file_name ArowanaFixedEyesp1s.3mf, found the filament 1 preset not inherit from system
+[warning]	2024-09-27 17:55:57.011149[Thread 0x00001408]:Slic3r::PresetCollection::validate_preset: preset_name Bambu PLA Basic @BBL X1C, no inherit, set to not found
+[warning]	2024-09-27 17:55:57.011149[Thread 0x00001408]:Slic3r::PresetBundle::validate_presets:file_name ArowanaFixedEyesp1s.3mf, found the filament 2 preset not inherit from system
+[warning]	2024-09-27 17:55:57.011149[Thread 0x00001408]:Slic3r::PresetCollection::validate_preset: preset_name Bambu PLA Basic @BBL X1C, no inherit, set to not found
+[warning]	2024-09-27 17:55:57.011149[Thread 0x00001408]:Slic3r::PresetBundle::validate_presets:file_name ArowanaFixedEyesp1s.3mf, found the filament 3 preset not inherit from system
+[warning]	2024-09-27 17:55:57.011149[Thread 0x00001408]:Slic3r::PresetCollection::validate_preset: preset_name Bambu PLA Basic @BBL X1C, no inherit, set to not found
+[warning]	2024-09-27 17:55:57.011149[Thread 0x00001408]:Slic3r::PresetBundle::validate_presets:file_name ArowanaFixedEyesp1s.3mf, found the filament 4 preset not inherit from system
+[warning]	2024-09-27 17:55:57.011149[Thread 0x00001408]:Slic3r::PresetBundle::validate_presets:file_name ArowanaFixedEyesp1s.3mf, found self defined presets, count 2
+[error]	2024-09-27 17:56:26.551707[Thread 0x00001408]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

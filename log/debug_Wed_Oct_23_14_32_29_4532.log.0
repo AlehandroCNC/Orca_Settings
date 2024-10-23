@@ -1,0 +1,16 @@
+[error]	2024-10-23 14:32:36.952248[Thread 0x00000898]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-23 14:32:36.975268[Thread 0x000003d4]:Unable to open the fileC:\Users\Alehandro\AppData\Local\Temp\Neutron\CH dad.stl
+[error]	2024-10-23 14:32:36.981274[Thread 0x000020e0]:Unable to open the fileC:\Users\Alehandro\AppData\Local\Temp\Neutron\Roller for friction.stl
+[error]	2024-10-23 14:32:36.982275[Thread 0x00002944]:Unable to open the fileC:\Users\Alehandro\AppData\Local\Temp\Neutron\Guide 1.stl
+[error]	2024-10-23 14:32:36.986280[Thread 0x0000283c]:Unable to open the fileC:\Users\Alehandro\Desktop\Приколюхи в 3д печать\Snake v4 x2.stl
+[error]	2024-10-23 14:32:36.986280[Thread 0x00000628]:Unable to open the fileC:\Users\Alehandro\Downloads\Telegram Desktop\Body1.stl
+[error]	2024-10-23 14:32:36.987279[Thread 0x00002684]:Unable to open the fileC:\Users\Alehandro\AppData\Local\Temp\Neutron\Body1.stl
+[error]	2024-10-23 14:32:36.987279[Thread 0x00003804]:Unable to open the fileC:\Users\Alehandro\AppData\Local\Temp\Neutron\Mounting plate.stl
+[warning]	2024-10-23 14:32:40.511812[Thread 0x00000898]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-10-23 14:32:43.331351[Thread 0x00000898]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-23 14:33:01.827529[Thread 0x00000898]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-23 14:34:57.770823[Thread 0x00000898]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-23 14:35:17.382378[Thread 0x00000898]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-23 14:35:26.166434[Thread 0x00000898]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-23 14:46:59.416247[Thread 0x00000898]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-23 14:48:40.104113[Thread 0x00000898]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

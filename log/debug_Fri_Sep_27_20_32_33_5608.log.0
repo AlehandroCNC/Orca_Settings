@@ -1,0 +1,44 @@
+[error]	2024-09-27 20:32:37.199711[Thread 0x000014ac]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-27 20:32:37.202714[Thread 0x00003180]:Unable to open the fileC:\Users\Alehandro\AppData\Local\Temp\Neutron\Body1.stl
+[error]	2024-09-27 20:32:37.202714[Thread 0x0000318c]:Unable to open the fileC:\Users\Alehandro\AppData\Local\Temp\Neutron\Roller for friction.stl
+[error]	2024-09-27 20:32:37.202714[Thread 0x00003184]:Unable to open the fileC:\Users\Alehandro\AppData\Local\Temp\Neutron\Mounting plate.stl
+[error]	2024-09-27 20:32:37.202714[Thread 0x00003188]:Unable to open the fileC:\Users\Alehandro\Downloads\Telegram Desktop\Body1.stl
+[error]	2024-09-27 20:32:39.509814[Thread 0x000014ac]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-27 20:32:40.059272[Thread 0x000014ac]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-09-27 20:32:40.691090[Thread 0x000014ac]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-09-27 20:32:41.696751[Thread 0x000031f8]:Error getting: `check_new_version_sf`: HTTP 0, curl:Timeout was reached:
+Connection timed out after 1003 milliseconds
+[Error 28]
+[error]	2024-09-27 20:33:08.931790[Thread 0x000014ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-09-27 20:33:11.652023[Thread 0x000014ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-09-27 20:33:12.582442[Thread 0x000014ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-09-27 20:33:12.965225[Thread 0x000014ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-09-27 20:33:13.152863[Thread 0x000014ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-09-27 20:33:13.431927[Thread 0x000014ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-09-27 20:33:14.881346[Thread 0x000014ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-09-27 20:33:18.023908[Thread 0x000014ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-09-27 20:33:18.475345[Thread 0x000014ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-09-27 20:33:35.936621[Thread 0x00003324]:Slic3r::WindowsSupport::rename,first rename file from C:\Users\ALEHAN~1\AppData\Local\Temp/orcaslicer_model/Fri_Sep_27/20_32_39#5608#51/Metadata\.5608.0.gcode.tmp.postprocess to C:\Users\ALEHAN~1\AppData\Local\Temp/orcaslicer_model/Fri_Sep_27/20_32_39#5608#51/Metadata\.5608.0.gcode.tmp failed, reason: permission denied
+[error]	2024-09-27 20:33:35.936621[Thread 0x00003324]:Slic3r::WindowsSupport::rename,open dest file C:\Users\ALEHAN~1\AppData\Local\Temp/orcaslicer_model/Fri_Sep_27/20_32_39#5608#51/Metadata\.5608.0.gcode.tmp failed, reason: permission denied
+[error]	2024-09-27 20:33:35.952635[Thread 0x00003324]:Slic3r::BackgroundSlicingProcess::call_process:got other exception
+[warning]	2024-09-27 20:34:03.632390[Thread 0x000014ac]:Slic3r::GUI::Plater::reslice: process_completed_with_error, return directly
+[warning]	2024-09-27 20:34:07.278495[Thread 0x000014ac]:Slic3r::GUI::Plater::reslice: process_completed_with_error, return directly
+[warning]	2024-09-27 20:34:08.941393[Thread 0x000014ac]:Slic3r::GUI::Plater::reslice: process_completed_with_error, return directly
+[warning]	2024-09-27 20:34:14.744401[Thread 0x000014ac]:Slic3r::GUI::Plater::reslice: process_completed_with_error, return directly
+[warning]	2024-09-27 20:34:15.084400[Thread 0x000014ac]:Slic3r::GUI::Plater::reslice: process_completed_with_error, return directly
+[warning]	2024-09-27 20:34:15.430402[Thread 0x000014ac]:Slic3r::GUI::Plater::reslice: process_completed_with_error, return directly
+[warning]	2024-09-27 20:34:15.598401[Thread 0x000014ac]:Slic3r::GUI::Plater::reslice: process_completed_with_error, return directly
+[error]	2024-09-27 20:34:16.498435[Thread 0x000014ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-09-27 20:34:17.738415[Thread 0x000014ac]:Slic3r::GUI::Plater::reslice: process_completed_with_error, return directly
+[warning]	2024-09-27 20:34:17.774069[Thread 0x000014ac]:Slic3r::GUI::Plater::reslice: process_completed_with_error, return directly
+[error]	2024-09-27 20:34:27.360423[Thread 0x000014ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-09-27 20:34:36.735159[Thread 0x000014ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-09-27 20:34:37.161121[Thread 0x000014ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-09-27 20:34:47.771110[Thread 0x000014ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-09-27 20:34:48.291445[Thread 0x000014ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-09-27 20:34:57.198771[Thread 0x00003324]:Slic3r::WindowsSupport::rename,first rename file from C:\Users\ALEHAN~1\AppData\Local\Temp/orcaslicer_model/Fri_Sep_27/20_32_39#5608#51/Metadata\.5608.0.gcode.tmp.postprocess to C:\Users\ALEHAN~1\AppData\Local\Temp/orcaslicer_model/Fri_Sep_27/20_32_39#5608#51/Metadata\.5608.0.gcode.tmp failed, reason: permission denied
+[error]	2024-09-27 20:34:57.198771[Thread 0x00003324]:Slic3r::WindowsSupport::rename,open dest file C:\Users\ALEHAN~1\AppData\Local\Temp/orcaslicer_model/Fri_Sep_27/20_32_39#5608#51/Metadata\.5608.0.gcode.tmp failed, reason: permission denied
+[error]	2024-09-27 20:34:57.213784[Thread 0x00003324]:Slic3r::BackgroundSlicingProcess::call_process:got other exception
+[error]	2024-09-27 20:35:05.845760[Thread 0x000014ac]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-27 20:35:05.879742[Thread 0x000014ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-09-27 20:35:06.028458[Thread 0x000014ac]:process_ui_task: failed to remove backup pathC:\Users\ALEHAN~1\AppData\Local\Temp/orcaslicer_model/Fri_Sep_27/20_32_39#5608#51: boost::filesystem::remove_all: The request is not supported [system:50]: "C:\Users\ALEHAN~1\AppData\Local\Temp/orcaslicer_model/Fri_Sep_27/20_32_39#5608#51\Metadata\.5608.0.gcode.tmp"

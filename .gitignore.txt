@@ -1,0 +1,5 @@
+hmc/
+log/
+ota/
+/OrcaSliser.conf
+/OrcaSliser.conf.bak

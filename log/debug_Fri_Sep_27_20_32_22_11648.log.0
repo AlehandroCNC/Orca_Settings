@@ -1,0 +1,8 @@
+[error]	2024-09-27 20:32:27.718554[Thread 0x00002d84]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-27 20:32:27.732468[Thread 0x000006d8]:Unable to open the fileC:\Users\Alehandro\AppData\Local\Temp\Neutron\Body1.stl
+[error]	2024-09-27 20:32:27.733469[Thread 0x0000066c]:Unable to open the fileC:\Users\Alehandro\AppData\Local\Temp\Neutron\Roller for friction.stl
+[error]	2024-09-27 20:32:27.733469[Thread 0x000006b0]:Unable to open the fileC:\Users\Alehandro\Downloads\Telegram Desktop\Body1.stl
+[error]	2024-09-27 20:32:27.734470[Thread 0x0000067c]:Unable to open the fileC:\Users\Alehandro\AppData\Local\Temp\Neutron\Mounting plate.stl
+[error]	2024-09-27 20:32:30.396636[Thread 0x00002d84]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-09-27 20:32:30.684900[Thread 0x00002d84]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-09-27 20:35:07.316371[Thread 0x00002d84]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

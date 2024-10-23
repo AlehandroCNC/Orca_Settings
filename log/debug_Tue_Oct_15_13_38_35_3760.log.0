@@ -1,0 +1,22 @@
+[error]	2024-10-15 13:38:58.838864[Thread 0x00001da4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-15 13:38:58.849873[Thread 0x00004f40]:Unable to open the fileC:\Users\Alehandro\AppData\Local\Temp\Neutron\Body1.stl
+[error]	2024-10-15 13:38:58.849873[Thread 0x00004fe8]:Unable to open the fileC:\Users\Alehandro\Desktop\Приколюхи в 3д печать\Snake v4 x2.stl
+[error]	2024-10-15 13:38:58.857880[Thread 0x00001da4]:Unable to open the fileC:\Users\Alehandro\AppData\Local\Temp\Neutron\Guide 1.stl
+[error]	2024-10-15 13:38:58.857880[Thread 0x00005b74]:Unable to open the fileC:\Users\Alehandro\AppData\Local\Temp\Neutron\Roller for friction.stl
+[error]	2024-10-15 13:38:58.858881[Thread 0x000053dc]:Unable to open the fileC:\Users\Alehandro\AppData\Local\Temp\Neutron\Mounting plate.stl
+[error]	2024-10-15 13:38:58.858881[Thread 0x00004a30]:Unable to open the fileC:\Users\Alehandro\Downloads\Telegram Desktop\Body1.stl
+[warning]	2024-10-15 13:39:02.297366[Thread 0x00001da4]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-10-15 13:41:49.405802[Thread 0x00001da4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-15 13:42:03.808013[Thread 0x00001da4]:Unable to open the fileC:\Users\Alehandro\AppData\Local\Temp\Neutron\CH dad.stl
+[warning]	2024-10-15 13:42:30.656275[Thread 0x000054d8]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":45,000000,"clearance_height_to_lid":101,000000,"cleareance_radius":45,000000,"printable_height":300,000000,
+[warning]	2024-10-15 13:42:35.995943[Thread 0x000054d8]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":45,000000,"clearance_height_to_lid":101,000000,"cleareance_radius":45,000000,"printable_height":300,000000,
+[warning]	2024-10-15 13:42:58.070988[Thread 0x000054d8]:Arrange full params: {"min_obj_distance":10000000,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":45,000000,"clearance_height_to_lid":101,000000,"cleareance_radius":45,000000,"printable_height":300,000000,
+[warning]	2024-10-15 13:43:03.594699[Thread 0x000054d8]:Arrange full params: {"min_obj_distance":10000000,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":45,000000,"clearance_height_to_lid":101,000000,"cleareance_radius":45,000000,"printable_height":300,000000,
+[error]	2024-10-15 15:54:18.982026[Thread 0x00001da4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-15 18:22:41.495461[Thread 0x00001da4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-15 19:28:14.362142[Thread 0x00001da4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-16 18:17:07.449155[Thread 0x00001da4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-16 18:17:08.798022[Thread 0x00001da4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-16 18:17:31.767636[Thread 0x00001da4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-16 18:17:31.808314[Thread 0x00001da4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-16 18:17:31.927423[Thread 0x00001da4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 

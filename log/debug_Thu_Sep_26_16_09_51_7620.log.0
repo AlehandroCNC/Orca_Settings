@@ -1,0 +1,7 @@
+[warning]	2024-09-26 16:09:51.326873[Thread 0x00003374]:Failed to load to hints.cereal. File does not exists. C:\Users\Alehandro\AppData\Roaming\OrcaSlicer\user\hints.cereal
+[error]	2024-09-26 16:09:57.100989[Thread 0x00003374]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-26 16:09:57.114173[Thread 0x00003374]:Unable to open the fileC:\Users\Alehandro\AppData\Local\Temp\Neutron\Body1.stl
+[error]	2024-09-26 16:09:57.115174[Thread 0x00002e3c]:Unable to open the fileC:\Users\Alehandro\AppData\Local\Temp\Neutron\Mounting plate.stl
+[warning]	2024-09-26 16:09:59.936419[Thread 0x00003374]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-09-26 16:10:11.500252[Thread 0x00003374]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-26 16:10:25.563746[Thread 0x00003374]:Unable to open the fileC:\Users\Alehandro\AppData\Local\Temp\Neutron\Roller for friction.stl
