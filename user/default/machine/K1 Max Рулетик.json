@@ -12,7 +12,7 @@
     "nozzle_diameter": [
         "0.6"
     ],
-    "print_host": "192.168.0.183:4408",
+    "print_host": "192.168.0.172:4408",
     "printer_settings_id": "K1 Max Рулетик",
     "version": "2.1.0.1"
 }
