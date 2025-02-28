@@ -113,7 +113,6 @@
     "xy_contour_compensation": "0",
     "gcode_label_objects": "0",
     "compatible_printers": [
-        "Creality K1 Max (0.4 nozzle)",
-		"Creality K1C 0.4 nozzle"
+        "Creality K1 Max (0.4 nozzle)","Creality K1C 0.4 nozzle" 
     ]
 }
