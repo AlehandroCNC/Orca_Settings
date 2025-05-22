@@ -18,7 +18,7 @@
     "layer_height": "0.3",
     "line_width": "100%",
     "name": "K1Max силовые детали",
-    "outer_wall_line_width": "95%",
+    "outer_wall_line_width": "105%",
     "outer_wall_speed": "250",
     "overhang_1_4_speed": "30%",
     "overhang_2_4_speed": "50%",
@@ -26,7 +26,6 @@
     "overhang_4_4_speed": "80%",
     "print_settings_id": "K1Max силовые детали",
     "slow_down_layers": "3",
-    "slowdown_for_curled_perimeters": "1",
     "sparse_infill_density": "40%",
     "sparse_infill_line_width": "100%",
     "sparse_infill_pattern": "cubic",
@@ -39,7 +38,7 @@
     "top_shell_layers": "4",
     "top_surface_line_width": "105%",
     "version": "2.1.0.1",
-    "wall_loops": "5",
+    "wall_loops": "10",
     "xy_contour_compensation": "-0.2",
     "xy_hole_compensation": "0.2"
 }
