@@ -113,6 +113,19 @@
     "xy_contour_compensation": "0",
     "gcode_label_objects": "0",
     "compatible_printers": [
-        "Creality K1 Max (0.4 nozzle)","Creality K1C 0.4 nozzle" 
+        "Creality K1 (0.4 nozzle)",
+		"Creality K1 (0.6 nozzle)",
+		"Creality K1 (0.8 nozzle)",
+        "Creality K1C 0.4 nozzle",
+        "Creality K1C 0.6 nozzle",
+        "Creality K1C 0.8 nozzle",
+        "Creality K1 SE 0.4 nozzle",
+		"Creality K1 Max (0.4 nozzle)",
+		"Creality K1 Max (0.6 nozzle)",
+		"Creality K1 Max (0.8 nozzle)",
+		"Creality K2 Plus 0.2 nozzle",
+        "Creality K2 Plus 0.4 nozzle",
+        "Creality K2 Plus 0.6 nozzle",
+        "Creality K2 Plus 0.8 nozzle"
     ]
 }
