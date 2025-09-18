@@ -1,9 +1,11 @@
 {
+    "bottom_shell_layers": "2",
     "bottom_solid_infill_flow_ratio": "1.05",
     "bridge_flow": "0.7",
     "bridge_speed": "250",
     "brim_type": "no_brim",
     "brim_width": "8",
+    "enable_prime_tower": "1",
     "enable_support": "1",
     "from": "User",
     "inherits": "0.20mm Standard @Creality K1Max (0.4 nozzle)",
@@ -25,12 +27,14 @@
     "overhang_2_4_speed": "50%",
     "overhang_3_4_speed": "30%",
     "overhang_4_4_speed": "80%",
+    "prime_tower_brim_width": "2",
+    "prime_tower_width": "10",
+    "prime_volume": "20",
     "print_settings_id": "K1Max не очень силовые детали",
     "slow_down_layers": "3",
     "small_perimeter_threshold": "100",
-    "sparse_infill_density": "20%",
     "sparse_infill_line_width": "100%",
-    "sparse_infill_pattern": "cubic",
+    "sparse_infill_pattern": "grid",
     "sparse_infill_speed": "350",
     "support_line_width": "100%",
     "support_object_xy_distance": "1",
@@ -38,5 +42,6 @@
     "support_top_z_distance": "0.3",
     "support_type": "tree(auto)",
     "top_surface_line_width": "100%",
-    "version": "2.1.0.1"
+    "version": "2.1.0.1",
+    "wipe_tower_no_sparse_layers": "1"
 }

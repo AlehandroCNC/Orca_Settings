@@ -3,7 +3,7 @@
     "inherits": "Creality K1C 0.4 nozzle",
     "is_custom_defined": "0",
     "name": "K1C Перееблетик 0.4",
-    "print_host": "192.168.0.165:4408",
+    "print_host": "192.168.0.176:4408",
     "printer_settings_id": "K1C Перееблетик 0.4",
     "time_cost": "35",
     "version": "2.1.0.1"
