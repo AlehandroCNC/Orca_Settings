@@ -9,7 +9,7 @@
         "0.2"
     ],
     "name": "K1 Max Омлетик 0.4",
-    "print_host": "192.168.0.193:4408",
+    "print_host": "192.168.0.20:4408",
     "printer_settings_id": "K1 Max Омлетик 0.4",
     "support_multi_bed_types": "0",
     "time_cost": "35",

@@ -3,7 +3,7 @@
     "inherits": "Creality K2 Plus 0.4 nozzle",
     "is_custom_defined": "0",
     "name": "K2 Plus",
-    "print_host": "192.168.0.186:4408",
+    "print_host": "192.168.0.32:4408",
     "printer_settings_id": "K2 Plus",
     "version": "2.3.0.0"
 }

@@ -6,7 +6,7 @@
         "0.1"
     ],
     "name": "K1 Max Котлетик 0.4",
-    "print_host": "192.168.0.182:4408",
+    "print_host": "192.168.0.27:4408",
     "printer_settings_id": "K1 Max Котлетик 0.4",
     "retract_when_changing_layer": [
         "0"
